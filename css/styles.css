@@ -124,4 +124,11 @@ i{
   i{
     margin-right: 20px;
   }
+  
+  #image{
+  max-width: 100%;
+  height: auto;
+  margin-top: 7em;
+  opacity: 100;
+}
 }
